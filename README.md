@@ -17,3 +17,5 @@ Makefile targets:
 	BST -> just builds the library (BST.h and BST.cpp)
 
 	clean -> Remove all object, executables and library files
+
+Four C files are included for example purposes
